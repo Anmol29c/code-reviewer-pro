@@ -40,4 +40,4 @@ Visit http://localhost:3000
 - Backend: Coming soon (Railway)
 
 ## Author
-Built by [Anu](https://github.com/Anmol29c)
+Built by [Anmol Chaturvedi](https://github.com/Anmol29c)
